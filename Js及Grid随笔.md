@@ -2,6 +2,33 @@
 
 
 
+#### JS相关知识：https://www.w3cschool.cn/jsref/dom-obj-canvas.html
+
+#### Array 对象方法
+
+| 方法                                                         | 描述                                                         |
+| :----------------------------------------------------------- | :----------------------------------------------------------- |
+| [concat()](https://www.w3cschool.cn/jsref/jsref-concat-array.html) | 连接两个或更多的数组，并返回结果。                           |
+| [every()](https://www.w3cschool.cn/jsref/jsref-every.html)   | 检测数组元素的每个元素是否都符合条件。                       |
+| [filter()](https://www.w3cschool.cn/jsref/jsref-filter.html) | 检测数组元素，并返回符合条件所有元素的数组。                 |
+| [indexOf()](https://www.w3cschool.cn/jsref/jsref-indexof-array.html) | 搜索数组中的元素，并返回它所在的位置。                       |
+| [join()](https://www.w3cschool.cn/jsref/jsref-join.html)     | 把数组的所有元素放入一个字符串。                             |
+| [lastIndexOf()](https://www.w3cschool.cn/jsref/jsref-lastindexof-array.html) | 返回一个指定的字符串值最后出现的位置，在一个字符串中的指定位置从后向前搜索。 |
+| [map()](https://www.w3cschool.cn/jsref/jsref-map.html)       | 通过指定函数处理数组的每个元素，并返回处理后的数组。         |
+| [pop()](https://www.w3cschool.cn/jsref/jsref-pop.html)       | 删除数组的最后一个元素并返回删除的元素。                     |
+| [push()](https://www.w3cschool.cn/jsref/jsref-push.html)     | 向数组的末尾添加一个或更多元素，并返回新的长度。             |
+| [reverse()](https://www.w3cschool.cn/jsref/jsref-reverse.html) | 反转数组的元素顺序。                                         |
+| [shift()](https://www.w3cschool.cn/jsref/jsref-shift.html)   | 删除数组的第一个元素。                                       |
+| [slice()](https://www.w3cschool.cn/jsref/jsref-slice-array.html) | 选取数组的的一部分，并返回一个新数组。                       |
+| [some()](https://www.w3cschool.cn/jsref/jsref-some.html)     | 检测数组元素中是否有元素符合指定条件。                       |
+| [sort()](https://www.w3cschool.cn/jsref/jsref-sort.html)     | 对数组的元素进行排序。                                       |
+| [splice()](https://www.w3cschool.cn/jsref/jsref-splice.html) | 从数组中添加或删除元素。                                     |
+| [toString()](https://www.w3cschool.cn/jsref/jsref-tostring-array.html) | 把数组转换为字符串，并返回结果。                             |
+| [unshift()](https://www.w3cschool.cn/jsref/jsref-unshift.html) | 向数组的开头添加一个或更多元素，并返回新的长度。             |
+| [valueOf()](https://www.w3cschool.cn/jsref/jsref-valueof-array.html) | 返回数组对象的原始值。                                       |
+
+
+
 **Grid**：一种类似于flex 的布局方式，与弹性不同，为栅格式布局。
 
 #### 容器用法及属性： 
@@ -78,4 +105,8 @@ grid属性是grid-template-rows、grid-template-columns、grid-template-areas、
 grid-column: <start-line> / <end-line>;
 
 **grid-area：**属性指定项目放在哪一个区域。
+
+
+
+
 
