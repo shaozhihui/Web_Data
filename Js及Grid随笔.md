@@ -35,6 +35,8 @@
 
 **display：grid** ：将该盒子设置为grid栅格盒子。
 
+**Grid—gap:**用于设置单元格之间的间隔；
+
 **Grid-template-rows**: 用于设置行，第一个值为行的数量，后续为对应行高。
 
 **Grid-template-columns**: 用于设置列，与行相似。
